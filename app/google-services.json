@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213622684291",
+    "project_id": "face-detection-app-5c90b",
+    "storage_bucket": "face-detection-app-5c90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213622684291:android:41d6345eb02c076d8cb9b6",
+        "android_client_info": {
+          "package_name": "com.intershala.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213622684291-hbd72ge2dc5an8odeneis4uhn625m0lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kh3SiemvPfnTmkO9OPe5bqAnKFcckw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213622684291-hbd72ge2dc5an8odeneis4uhn625m0lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
